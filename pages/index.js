@@ -115,7 +115,7 @@ function HomePage() {
           <div
             aria-label="input area"
             className="editor chatinput"
-            contenteditable="true"
+            contentEditable="true"
             placeholder="请输入你的问题"
             id="reply"
           ></div>
